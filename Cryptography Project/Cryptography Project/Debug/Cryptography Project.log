@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(85,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(90,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(99,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(119,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(149,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(157,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(173,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(177,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(187,9): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(196,26): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(211,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(218,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(225,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(232,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(238,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(247,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(264,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\yasee\source\repos\Cryptography Project\Cryptography Project\Source.cpp(276,20): warning C4018:  '<': signed/unsigned mismatch
+  Cryptography Project.vcxproj -> C:\Users\yasee\source\repos\Cryptography Project\Debug\Cryptography Project.exe
